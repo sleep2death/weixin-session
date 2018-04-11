@@ -1,0 +1,23 @@
+{
+  "name": "forest",
+  "version": "0.0.1",
+  "description": "a simple game server",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "moment": "^2.21.0",
+    "mongodb": "^3.0.3",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "var": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aspirin",
+  "license": "ISC"
+}
